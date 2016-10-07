@@ -1,0 +1,12 @@
+<?xml version="1.0" ENCODING="utf-8" ?>
+<persons>
+	<person name="Tom" age="19">
+		<Hobby>游戏,电脑</Hobby>
+	</person>
+	<person name="Jeck" age="18">
+		<Hobby>听歌,看书</Hobby>
+	</person>
+	<person name="Mac" age="20">
+		<Hobby>听歌,看书,冲浪</Hobby>
+	</person>
+</persons>
